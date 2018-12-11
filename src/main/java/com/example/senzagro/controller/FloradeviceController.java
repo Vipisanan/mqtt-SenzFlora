@@ -11,6 +11,8 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/floradevice")
+
+@CrossOrigin(origins = "http://localhost:4200")
 public class FloradeviceController {
 
     @Autowired

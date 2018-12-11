@@ -51,6 +51,19 @@
 			<version>1.1.0</version>
 		</dependency>
 
+		<dependency>
+			<groupId>org.apache.cxf</groupId>
+			<artifactId>cxf-rt-rs-security-cors</artifactId>
+			<version>3.0.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.apache.cxf</groupId>
+			<artifactId>cxf-rt-transports-http-jetty</artifactId>
+			<version>3.1.1</version>
+		</dependency>
+
+
 
 	</dependencies>
 
